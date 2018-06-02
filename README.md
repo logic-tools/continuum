@@ -1,8 +1,8 @@
-# continuum
+# Continuum
 
-## Results about countable and uncountable sets
+## Results about Countable and Uncountable Sets
 
-### Proving in the Isabelle Proof Assistant that the Set of Real Numbers is not Countable
+### Paper: Proving in the Isabelle Proof Assistant that the Set of Real Numbers is not Countable
 
 ThEdu.pdf - ThEdu'18 Paper with Appendix: Formalization in Isabelle
 
