@@ -2,12 +2,12 @@
 
 ## Results about Countable and Uncountable Sets
 
-### Paper: Proving in the Isabelle Proof Assistant that the Set of Real Numbers is not Countable
+### ThEdu'18 paper: Proving in the Isabelle Proof Assistant that the Set of Real Numbers is not Countable
 
-ThEdu.pdf - ThEdu'18 Paper with Appendix: Formalization in Isabelle
+Continuum.thy - Formalization in Isabelle with further results
 
-ThEdu.thy - Formalization in Isabelle as in Paper
+Proof.thy - Formalization in Isabelle with the dummy proof feature as alternative to "sorry"
 
-Proof.pdf - Supplement: The Formalization in Isabelle with and without the Possible New Feature "..."
+ThEdu.thy - Formalization in Isabelle as in paper
 
-Proof.thy - Formalization in Isabelle with the Dummy Proof Feature "\<proof>" as Alternative to "sorry"
+*Use Isabelle2018* https://sketis.net/2018/release-candidates-for-isabelle2018
